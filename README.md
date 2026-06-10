@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Shanghai &nbsp;·&nbsp; 🕐 UTC+08:00 &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2EA043?style=flat" alt="Open to Work" />
+  📍 Shanghai &nbsp;·&nbsp; 🕐 UTC+08:00
 </p>
 
 ---
@@ -71,5 +70,5 @@ I study and hack on the tools I build with — Claude Code, opencode, Codex, gem
 <p align="center">
   <samp><b>Co-evolution with intelligence.</b> &nbsp;·&nbsp; 和智能一起进化。</samp>
   <br/>
-  <sub>📫 Reach me via my <a href="https://chuanhui2020.github.io">CV page</a> · I may be slow to respond.</sub>
+  <sub>📫 <a href="mailto:chuanhui.liu2020@gmail.com">chuanhui.liu2020@gmail.com</a> · <a href="https://chuanhui2020.github.io/">CV page</a> · I may be slow to respond.</sub>
 </p>

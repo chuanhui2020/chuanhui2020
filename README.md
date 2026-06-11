@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Shanghai &nbsp;·&nbsp; 🕐 UTC+08:00
+  📍 Beijing / Shanghai &nbsp;·&nbsp; 🕐 UTC+08:00
 </p>
 
 ---
@@ -15,42 +15,28 @@
 > **These are what I've built since I started vibe coding.**
 > 这些是我开始 vibe coding 之后,亲手造出来的东西。
 
-### 🚀 Products I shipped &nbsp;·&nbsp; 交付的真实产品
+### 🚀 Three things I built &nbsp;·&nbsp; 三个能说明我的东西
 
-- ⚽ **[fifa-2026](https://github.com/chuanhui2020/fifa-2026)** — `TypeScript · Next.js · Cloudflare` &nbsp;·&nbsp; 🔗 **[Live demo](https://fifa2026.ch-tools.org/)**
-  <br/>FIFA 2026 World Cup schedule site with a PolyMarket-style dark UI.
-  <br/>世界杯赛程网站,PolyMarket 风格暗色界面,Next.js + Cloudflare 部署。
-- 🎙️ **[voice-ime](https://github.com/chuanhui2020/voice-ime)** — `Swift · macOS`
-  <br/>A native macOS voice input method — speak, and it types.
-  <br/>原生 macOS 语音输入法,说话即成文。
-- 🕸️ **[school-poems](https://github.com/chuanhui2020/school-poems)** — `TypeScript`
-  <br/>"诗人的朋友圈" — visualizing the relationship network of classic Chinese poems.
-  <br/>诗人的朋友圈:部编版初高中古诗词关系网络可视化。
-- ✅ **[my-tasklist](https://github.com/chuanhui2020/my-tasklist)** — `Vue` &nbsp;·&nbsp; 🔗 **[Live demo](https://tasklist.ch-tools.org)**
-  <br/>A lightweight task list — built to survive a boring afternoon at the office.
-  <br/>轻量待办清单,办公室摸鱼神器。
-- 🎮 **[my-mini-game](https://github.com/chuanhui2020/my-mini-game)** — `TypeScript`
-  <br/>A small browser game, vibe-coded end to end.
-  <br/>一个纯 vibe coding 写出来的浏览器小游戏。
-
-### 🦀 Going deep &nbsp;·&nbsp; 啃底层,不止于上层应用
-
-- 🧬 **[redis-rust](https://github.com/chuanhui2020/redis-rust)** — `Rust`
-  <br/>Goal-driven, multi-agent rewrite of Redis in Rust.
-  <br/>用目标驱动 + 多 agent 协作,把 Redis 用 Rust 重写一遍。
-- 📈 **[agent-learns-rust](https://github.com/chuanhui2020/agent-learns-rust)** — `Rust`
-  <br/>Learning Rust in public, side by side with a coding agent.
-  <br/>和 coding agent 结对,公开记录学 Rust 的全过程。
-
-### 🤖 Living in the agent ecosystem &nbsp;·&nbsp; 泡在 agent 生态里
-
-I study and hack on the tools I build with — Claude Code, opencode, Codex, gemini-cli, LangChain, LangGraph, AutoGen, CrewAI and more. Reading their source and rebuilding pieces is how I keep my vibe coding sharp.
-<br/>我会读我每天在用的工具的源码并动手改:Claude Code、opencode、Codex、gemini-cli、LangChain、LangGraph、AutoGen、CrewAI…… 拆开重造,是我保持 vibe coding 手感的方式。
+- ⚽ **[fifa-2026](https://github.com/chuanhui2020/fifa-2026)** — `AI agent design` &nbsp;·&nbsp; 🔗 **[Live demo](https://fifa2026.ch-tools.org/)**
+  <br/>A real, shipped World Cup schedule site — and my testbed for designing the AI agents that build and run a product end to end.
+  <br/>一个真正上线的世界杯赛程网站,也是我打磨 AI agent 设计的试验场:怎么让 agent 从头到尾把产品造出来、跑起来。
+- ✅ **[my-tasklist](https://github.com/chuanhui2020/my-tasklist)** — `vibe coding for myself` &nbsp;·&nbsp; 🔗 **[Live demo](https://tasklist.ch-tools.org)**
+  <br/>Whatever my own work and life needs, I just vibe-code it. This task list is exactly that — built for me first, opened up for anyone.
+  <br/>工作和生活里缺什么趁手工具,我就直接 vibe 一个出来。这个待办清单就是这么来的——先满足自己,顺手开放给所有人。
+- 🧬 **[redis-rust](https://github.com/chuanhui2020/redis-rust)** — `goal-driven rebuild`
+  <br/>Goal-driven, multi-agent rewrite of Redis in Rust — proving the approach can rebuild infrastructure that actually matters.
+  <br/>用目标驱动 + 多 agent 协作,把 Redis 用 Rust 重写一遍——验证这套打法能不能啃下真正重要的基础设施。
 
 ---
 
-### 🛠️ Stack
+### 🛠️ How I build &nbsp;·&nbsp; 怎么造
 
+I live inside **Claude Code** and **Codex** — they're my main cockpit for vibe-coding whatever I'm into, across the whole stack.
+<br/>我主要泡在 **Claude Code** 和 **Codex** 里,把它们当主驾驶舱,全栈 vibe 出我喜欢的一切。
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white)
+&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)

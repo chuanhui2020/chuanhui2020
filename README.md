@@ -3,7 +3,7 @@
 <p align="center">
   <samp><b>AI MAKE SENSE</b> — I ship real products by vibe coding across the whole stack.</samp>
   <br/>
-  <samp>用 vibe coding 全栈交付真实产品 · Rust / TypeScript / Swift / Vue / Python</samp>
+  <samp>用 vibe coding 全栈交付真实产品 · Java / Rust / TypeScript / Swift / Vue / Python</samp>
 </p>
 
 <p align="center">
@@ -47,6 +47,7 @@ I live inside **Claude Code** and **Codex** — they're my main cockpit for vibe
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000?style=flat&logo=openai&logoColor=white)
 &nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)

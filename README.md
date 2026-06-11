@@ -12,10 +12,20 @@
 
 ---
 
-> **These are what I've built since I started vibe coding.**
-> 这些是我开始 vibe coding 之后,亲手造出来的东西。
+## 🏰 [4x-slg-backend](https://github.com/chuanhui2020/4x-slg-backend) &nbsp;—&nbsp; a drop-in framework for 4X-SLG games
 
-### 🚀 Three things I built &nbsp;·&nbsp; 三个能说明我的东西
+> **A production-grade, Actor-based game server framework you can use _directly_ as the backbone of your own 4X-SLG game.**
+> Built on Apache Pekko Typed with a Master/Slave architecture — AOI vision, march & rally systems, cross-server RPC, scaling to **20,000 concurrent players per server**.
+> <br/>一套可以**直接拿来当 4X-SLG 游戏框架用**的生产级 Actor 服务器框架。基于 Apache Pekko Typed 的 Master/Slave 架构:AOI 视野、行军与集结系统、跨服 RPC,单服可撑 **2 万人同时在线**。
+
+`Java 25` &nbsp;·&nbsp; `Spring Boot 4` &nbsp;·&nbsp; `Apache Pekko` &nbsp;·&nbsp; `gRPC` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `DynamoDB`
+
+---
+
+> **And the rest of what I've built since I started vibe coding.**
+> 以及我开始 vibe coding 之后,亲手造出来的其它东西。
+
+### 🚀 Three more things I built &nbsp;·&nbsp; 另外三个能说明我的东西
 
 - ⚽ **[fifa-2026](https://github.com/chuanhui2020/fifa-2026)** — `AI agent design` &nbsp;·&nbsp; 🔗 **[Live demo](https://fifa2026.ch-tools.org/)**
   <br/>A real, shipped World Cup schedule site — and my testbed for designing the AI agents that build and run a product end to end.

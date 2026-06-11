@@ -3,7 +3,7 @@
 <p align="center">
   <samp><b>AI MAKE SENSE</b> — I ship real products by vibe coding across the whole stack.</samp>
   <br/>
-  <samp>用 vibe coding 全栈交付真实产品 · Rust / TypeScript / Swift / Vue / Go / Python</samp>
+  <samp>用 vibe coding 全栈交付真实产品 · Rust / TypeScript / Swift / Vue / Python</samp>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### 🚀 Products I shipped &nbsp;·&nbsp; 交付的真实产品
 
-- ⚽ **[fifa-2026](https://github.com/chuanhui2020/fifa-2026)** — `TypeScript · Next.js · Cloudflare`
+- ⚽ **[fifa-2026](https://github.com/chuanhui2020/fifa-2026)** — `TypeScript · Next.js · Cloudflare` &nbsp;·&nbsp; 🔗 **[Live demo](https://fifa2026.ch-tools.org/)**
   <br/>FIFA 2026 World Cup schedule site with a PolyMarket-style dark UI.
   <br/>世界杯赛程网站,PolyMarket 风格暗色界面,Next.js + Cloudflare 部署。
 - 🎙️ **[voice-ime](https://github.com/chuanhui2020/voice-ime)** — `Swift · macOS`
@@ -26,7 +26,7 @@
 - 🕸️ **[school-poems](https://github.com/chuanhui2020/school-poems)** — `TypeScript`
   <br/>"诗人的朋友圈" — visualizing the relationship network of classic Chinese poems.
   <br/>诗人的朋友圈:部编版初高中古诗词关系网络可视化。
-- ✅ **[my-tasklist](https://github.com/chuanhui2020/my-tasklist)** — `Vue`
+- ✅ **[my-tasklist](https://github.com/chuanhui2020/my-tasklist)** — `Vue` &nbsp;·&nbsp; 🔗 **[Live demo](https://tasklist.ch-tools.org)**
   <br/>A lightweight task list — built to survive a boring afternoon at the office.
   <br/>轻量待办清单,办公室摸鱼神器。
 - 🎮 **[my-mini-game](https://github.com/chuanhui2020/my-mini-game)** — `TypeScript`
@@ -55,14 +55,13 @@ I study and hack on the tools I build with — Claude Code, opencode, Codex, gem
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chuanhui2020&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuanhui2020&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chuanhui2020&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Chuanhui's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuanhui2020&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Chuanhui's most used languages" />
 </p>
 
 ---
@@ -70,5 +69,5 @@ I study and hack on the tools I build with — Claude Code, opencode, Codex, gem
 <p align="center">
   <samp><b>Co-evolution with intelligence.</b> &nbsp;·&nbsp; 和智能一起进化。</samp>
   <br/>
-  <sub>📫 <a href="mailto:chuanhui.liu2020@gmail.com">chuanhui.liu2020@gmail.com</a> · <a href="https://chuanhui2020.github.io/">CV page</a> · I may be slow to respond.</sub>
+  <sub>📫 <a href="mailto:chuanhui.liu2020@gmail.com">chuanhui.liu2020@gmail.com</a> · <a href="https://chuanhui2020.github.io/">CV page</a> · always open to interesting ideas.</sub>
 </p>
